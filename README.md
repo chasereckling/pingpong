@@ -13,7 +13,7 @@ PingPong uses ruby version 2.2.0. After you download PingPong navigate to the 'p
 
 1. open irb
 
-   $ ird
+   $ irb
 
 2. copy all the code in pingpong.rb, from the lib file. Paste into the terminal and hit enter.
 
