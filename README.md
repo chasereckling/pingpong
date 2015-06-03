@@ -11,13 +11,13 @@ Setup:
 
 PingPong uses ruby version 2.2.0. After you download PingPong navigate to the 'ping_pong' file folder in your terminal:
 
-1. open irb
+1. open irb:
 
    $ irb
 
 2. copy all the code in pingpong.rb, from the lib file. Paste into the terminal and hit enter.
 
-3. enter in any number with the .pingpong method called on it.
+3. enter in any number with the .pingpong method called on it:
 
    $ 15.pinpong()
     => [1, 2, "ping", 4, "pong", "ping", 7, 8, "ping", "pong", 11, "ping", 13, 14, "pingpong"]
